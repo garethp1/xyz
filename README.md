@@ -19,7 +19,7 @@ The [https://swagger.io/](https://swagger.io/) site contains all the information
 
 To help you understand the how the API can support your business, refer to . Here we provide detailed documentation on the API as well as providing a set of Postman collections to demonstrate typical implementation use cases.
 
-Support
+## Support
 
 Coming soon….
 
@@ -29,8 +29,6 @@ Coming soon….
 
 | **Mobile Money API Version** | **Release Date** | **Swagger (AKA Open API Spec) Compatibility** | **Notes** | **Status** |
 | --- | --- | --- | --- | --- |
-| 1.0.0 | 24
-# th
- October 2016 | 2.x | Insert tag | Current Version |
+| 1.0.0 | 2016-10-24 | 2.x | Insert tag | Current Version |
 | 1.1.0 | TBD | 2.x | Insert tag | Beta Version |
 | 1.2.0 | TBD | 2.x | Insert tag | Beta Version |
