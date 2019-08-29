@@ -1,4 +1,4 @@
-# Mobile Money API
+# Mobile Money API.
 
 ## Overview
 
